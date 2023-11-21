@@ -1,6 +1,13 @@
 
-#include <iostream>
-int main() {
-    std::cout << "Hello World"<<endl;
-    return 0;
-}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>week 1, task 1</title>
+    </head>
+
+    <body>
+        <h1>Hello react!</h1>
+    </body>
+
+</html>
